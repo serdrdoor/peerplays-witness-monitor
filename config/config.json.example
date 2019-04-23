@@ -1,0 +1,20 @@
+{
+  "timeout": 20,
+  "thresholdMissedBlocks": 3,
+  "onlyNotify": false,
+  "peerplays": {
+    "apiNode": "wss://api.ppy.blckchnd.com/ws",
+    "nameNetwork": "MainNet",
+    "account": "witness-account",
+    "witnessUrl": "https://.......",
+    "activeKey": "5.......xxx",
+    "sign_keys": {
+      "witnessSigningKey": "PPY.......xxx",
+      "backupSigningKey": "PPY.......xxx"
+    }
+  },
+  "telegram": {
+    "token": "botToken....",
+    "my_telegram_id": "1......"
+  }
+}

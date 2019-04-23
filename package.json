@@ -1,0 +1,15 @@
+{
+  "name": "peerplays-witness-monitor",
+  "version": "1.0.0",
+  "description": "Monitor missed blocks for witnesses PeerPlays blockchain network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlexPu",
+  "license": "Unlicense",
+  "dependencies": {
+    "peerplaysjs-lib": "^0.6.0",
+    "node-telegram-bot-api": "^0.28.0"
+  }
+}
